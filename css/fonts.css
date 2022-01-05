@@ -1,0 +1,54 @@
+/* Abel */
+
+@font-face {
+    font-family: Abel;
+    src: url('../fonts/Abel/Abel-Regular.ttf');
+}
+
+
+/* Anton */
+
+@font-face {
+    font-family: Anton;
+    src: url('../fonts/Anton/Anton-Regular.ttf');
+}
+
+
+/* Josefine_Sans */
+
+@font-face {
+    font-family: Josefine_Sans;
+    src: url('../fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf');
+}
+
+
+/* Lato */
+
+@font-face {
+    font-family: Lato;
+    src: url('../fonts/Lato/Lato-Regular.ttf');
+}
+
+
+/* Lexend_Deca */
+
+@font-face {
+    font-family: Lexend;
+    src: url('../fonts/Lexend_Deca/Lexend-VariableFont_wght.ttf');
+}
+
+
+/* Livvic */
+
+@font-face {
+    font-family: Livvic;
+    src: url('../fonts/Livvic/Livvic-Regular.ttf');
+}
+
+
+/* Montserrat */
+
+@font-face {
+    font-family: Montserrat;
+    src: url('../fonts/Montserrat/Montserrat-Regular.ttf');
+}
